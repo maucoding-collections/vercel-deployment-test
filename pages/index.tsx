@@ -30,6 +30,7 @@ const Home: NextPage = () => {
             Vercel
           </a>
         </h1>
+        <p>Updated 1.0</p>
       </main>
     </div>
   );
